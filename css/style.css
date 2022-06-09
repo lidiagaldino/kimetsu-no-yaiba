@@ -1,0 +1,17 @@
+@font-face{
+    font-family: demon;
+    src: url(../fonts/slayer11.TTF);
+}
+h1{
+    font-family: demon;
+    color: white;
+}
+section{
+    height: auto;
+}
+#home, #arcos1, #arcos2, #arcos3{
+    height: 100vh;
+}
+footer{
+    height: 30vh;
+}
